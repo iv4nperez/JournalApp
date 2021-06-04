@@ -16,4 +16,4 @@ This project is created for write your activities and be able to upload compleme
 
 ### Url
 
-[See de site here] (https://iv4nperez.github.io/JournalApp/)
+[See de site here] (https://journal-app-5973a.web.app/auth/login)
