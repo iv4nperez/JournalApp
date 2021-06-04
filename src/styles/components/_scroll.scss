@@ -1,0 +1,13 @@
+.journal__entries::-webkit-scrollbar {
+    width: 10px;
+}
+   
+.journal__entries::-webkit-scrollbar-track {
+    background: transparent;
+    border-radius: 4px;
+}
+
+.journal__entries::-webkit-scrollbar-thumb {
+    background-color: rgb(228, 228, 228);
+    border-radius: 4px;
+}
